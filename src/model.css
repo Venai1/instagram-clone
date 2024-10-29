@@ -1,0 +1,9 @@
+.modal__signup {
+    display:flex;
+    flex-direction: column;
+}
+
+.modal__Image {
+    width: 50%;
+    transform: translate(+50%, +10%);
+}
